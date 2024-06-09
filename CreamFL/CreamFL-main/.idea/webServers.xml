@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f1bd7e54-bd3a-40d6-a8f6-f78f627fae6e" name="gale">
+        <fileTransfer rootFolder="/home/liaojunchi" accessType="SFTP" host="121.48.161.243" port="4011" sshConfigId="8a28b506-0159-4a68-8c32-a5b19e927e3f" sshConfig="liaojunchi@121.48.161.243:4011 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
